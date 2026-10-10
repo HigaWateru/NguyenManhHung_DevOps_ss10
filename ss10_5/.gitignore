@@ -1,0 +1,12 @@
+# Tệp chứa biến môi trường nhạy cảm không được commit lên Git
+.env
+
+# Thư viện phụ thuộc Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tệp hệ thống
+.DS_Store
+Thumbs.db
